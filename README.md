@@ -1,6 +1,6 @@
-# 🌑 Grey Wolf Optimization (GWO) – Tối thiểu hóa hàm Sphere
+# Grey Wolf Optimization (GWO) – Tối thiểu hóa hàm Sphere
 
-## 1. 👥 Thông tin nhóm
+## 1.  Thông tin nhóm
 
 **Nhóm 151**, gồm các sinh viên thực hiện:
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 2. 📘 Giới thiệu
+## 2.  Giới thiệu
 
 Dự án này triển khai **thuật toán Grey Wolf Optimization (GWO)** để giải bài toán tối ưu hàm Sphere – một trong những hàm benchmark phổ biến để đánh giá thuật toán tối ưu meta-heuristic.
 
@@ -31,15 +31,15 @@ f(x) = \sum_{i=1}^{n} x_i^2
 
 ---
 
-## 3. 🛠 Cài đặt & Thiết lập môi trường
+## 3.  Cài đặt & Thiết lập môi trường
 
-### 🔧 Yêu cầu môi trường
+###  Yêu cầu môi trường
 - Python **3.8+**
 - Bộ thư viện:
   - `numpy`
   - `matplotlib`
 
-### 📦 Cài đặt thư viện
+###  Cài đặt thư viện
 Chạy lệnh:
 
 ```bash
