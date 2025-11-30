@@ -45,13 +45,11 @@ Chạy lệnh:
 ```bash
 pip install numpy matplotlib
 
-### 📁 Cấu trúc file
-
 ```
+### 📁 Cấu trúc file
 📂 GWO-Sphere-Optimization
  ├── minimum_of_sphere.py   # Code thuật toán GWO + vẽ biểu đồ hội tụ
  └── README.md
-```
 
 ### ▶️ Chạy chương trình
 
