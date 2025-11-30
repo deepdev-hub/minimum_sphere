@@ -46,12 +46,12 @@ Chạy lệnh:
 pip install numpy matplotlib
 
 ```
-### 📁 Cấu trúc file
-📂 GWO-Sphere-Optimization
+###  Cấu trúc file
+ GWO-Sphere-Optimization
  ├── minimum_of_sphere.py   # Code thuật toán GWO + vẽ biểu đồ hội tụ
  └── README.md
 
-### ▶️ Chạy chương trình
+###  Chạy chương trình
 
 Trong terminal:
 
@@ -61,16 +61,16 @@ python minimum_of_sphere.py
 
 ---
 
-## 4. 📄 Mô tả chi tiết
+## 4.  Mô tả chi tiết
 
 File `minimum_of_sphere.py` gồm các thành phần chính:
 
-### 🔹 Hàm mục tiêu (Objective Function)
+###  Hàm mục tiêu (Objective Function)
 
 * Sphere function
 * Liên tục, lồi, đơn giản, dùng để test thuật toán tối ưu
 
-### 🔹 Thuật toán Grey Wolf Optimization
+###  Thuật toán Grey Wolf Optimization
 
 Gồm các bước:
 
@@ -83,7 +83,7 @@ Gồm các bước:
 3. Cập nhật vị trí theo mô hình bao vây & săn mồi
 4. Lặp lại qua nhiều vòng để hội tụ nghiệm tối ưu
 
-### 🔹 Biểu đồ hội tụ
+###  Biểu đồ hội tụ
 
 * Sử dụng matplotlib để hiển thị tiến trình giảm của:
 
@@ -92,7 +92,7 @@ Gồm các bước:
 
 ---
 
-## 5. 📊 Kết quả
+## 5.  Kết quả
 
 Khi chạy chương trình:
 
@@ -112,9 +112,9 @@ Best Position: [ 0.0021 -0.0010  0.0008 ... ]
 
 ---
 
-## 6. 💬 Hỗ trợ – Liên hệ
+## 6.  Hỗ trợ – Liên hệ
 
 Nếu bạn có thắc mắc hoặc cần hỗ trợ thêm, vui lòng liên hệ:
 
-📧 **Email:** [hung.lv235740@sis.hust.edu.vn](mailto:hung.lv235740@sis.hust.edu.vn)
+**Email:** [hung.lv235740@sis.hust.edu.vn](mailto:hung.lv235740@sis.hust.edu.vn)
 
